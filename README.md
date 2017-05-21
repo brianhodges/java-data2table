@@ -1,4 +1,4 @@
-# Output Data Object/Array into Formatted Terminal Table (Java)
+# Output Data Object/Array into Formatted Table (Java)
 Just a project more for myself to refer back to when working on future Java projects. Outputs an array of objects into a formatted terminal table.
 
 # Setup
